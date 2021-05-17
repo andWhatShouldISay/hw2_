@@ -1,3 +1,3 @@
 # hw2_
 
-To train, just run ``train.py``. I dont upload ``test.py`` because i am already failing this course. How to take a retake btw?
+To train, just run ``train.py`` or ``test.py``. The first one will train and recommend five movies for the first guy, the second one will show you the test loss.
